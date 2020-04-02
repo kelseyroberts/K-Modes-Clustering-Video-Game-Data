@@ -11,7 +11,7 @@ library(mice)
 library(VIM)
 library(psych)
 
-setwd("C:/Users/rober/Dropbox/Masters Program/Data Mining")
+
 Steam<-read.csv("Steam .csv")
 
 
